@@ -187,7 +187,7 @@ These results demonstrate that the model effectively detects fraudulent transact
 # 📈 Confusion Matrix
 
 <p align="center">
-  <img src="assets/confusion_matrix.png" alt="Confusion Matrix" width="600"/>
+  <img src="assets/confusion matrix.png" alt="Confusion Matrix" width="600"/>
 </p>
 
 ---
